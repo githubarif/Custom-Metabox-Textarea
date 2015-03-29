@@ -25,16 +25,14 @@ And show the value of textarea any where in your website.
 Show the metabox textarea output is very simple. Just use this code in your template file.
 
 <?php
-
     $meta_value = get_post_meta( get_the_ID(), 'textarea-meta-textarea', true );
  
     if( !empty( $meta_value ) ) {
         echo $meta_value;
     }
- 
 ?>
 
-This very first release doesn't support custom post type. Dont't Worry, for the next version it does.
+It is very first release so doesn't support custom post type. Dont't Worry, for the next version it does.
 
 = Support =
 
