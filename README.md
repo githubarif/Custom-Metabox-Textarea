@@ -37,7 +37,7 @@ It is very first release so doesn't support custom post type. Dont't Worry, for 
 
 = Support =
 
-Contact the plugin author: <a href="http://arifislam.wix.com/portfolio">Ariful Islam</a>
+Contact the plugin author: arifweb94@gmail.com
 
 
 
